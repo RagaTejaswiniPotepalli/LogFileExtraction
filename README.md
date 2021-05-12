@@ -1,2 +1,3 @@
 # LogFileExtraction
-This program is to parse a log file &amp; extract details of Errors &amp; Warnings recorded into a separate file.
+
+This python program parses a log file(logfilesPython.txt) from the current directory and separates error and warning messages into a new file which is created in the current directory after execution.
